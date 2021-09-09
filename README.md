@@ -54,7 +54,7 @@
 ## About The Project
 
 <a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/1.png">
-    <img src="assets/1.png" alt="Logo" width="80" height="80">
+    <img src="assets/1.jpg" alt="screen1">
   </a>
 
 Short spark is a link shortner by which you can short all your long links and have a immersive experience with lottie animations.
@@ -79,7 +79,7 @@ To get started you have to go to <a href='https://shortspark.web.app'>Short Spar
 
 Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) 
 Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/RishiAhuja/short-spark](https://github.com/RishiAhuja/short-spark)
 
 
 
