@@ -20,7 +20,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][https://img.shields.io/badge/Short%20Spark-Use%20now-red]][linkedin-url]
 
 
 
