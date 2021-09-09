@@ -34,7 +34,7 @@
   <h3 align="center">Short Spark</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome link shortener for all your long links
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
