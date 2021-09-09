@@ -36,14 +36,14 @@
   <p align="center">
     An awesome link shortener for all your long links
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RishiAhuja/short-spark"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://shortspark.web.app">Use now</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="mailto:www.rishiahuja@gmail.com">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="mailto:www.rishiahuja@gmail.com">Request Feature</a>
   </p>
 </p>
 
