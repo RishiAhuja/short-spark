@@ -58,6 +58,6 @@ To get started you have to go to <a href='https://shortspark.web.app'>Short Spar
 ## Contact
 
 Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) 
-Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) 
-Project Link: [https://github.com/RishiAhuja/short-spark](https://github.com/RishiAhuja/short-spark)
+[Email](mailto:www.rishiahuja@gmail.com) 
+Short Spark: [Project link](https://github.com/RishiAhuja/short-spark)
 
