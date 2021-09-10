@@ -36,7 +36,8 @@
 <a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/3.jpg">
     <img src="assets/3.jpg" alt="screen3", height=30%, width=30%>
   </a>
-Short spark is a link shortner by which you can short all your long links and have a immersive experience with lottie animations.
+
+   Short spark is a link shortner by which you can short all your long links and have a immersive experience with lottie animations.
 
 Of course, nothing is perfect, short spark also comes with its caviets. It uses <a href="https://shrtco.de/docs">shrtco.de</a> API which makes it a little bit slow.
 
