@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/shortspark.png">
+  <a href="https://shortspark.web.app">
     <img src="assets/shortspark.png" alt="Logo" width="80" height="80">
   </a>
 
