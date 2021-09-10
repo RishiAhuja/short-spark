@@ -31,10 +31,10 @@
     <img src="assets/1.jpg" alt="screen1", height=30%, width=30%>
   </a>
 <a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/2.jpg">
-    <img src="assets/2.jpg" alt="screen1", height=30%, width=30%>
+    <img src="assets/2.jpg" alt="screen2", height=30%, width=30%>
   </a>
 <a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/3.jpg">
-    <img src="assets/3.jpg" alt="screen1", height=30%, width=30%>
+    <img src="assets/3.jpg" alt="screen3", height=30%, width=30%>
   </a>
 Short spark is a link shortner by which you can short all your long links and have a immersive experience with lottie animations.
 
