@@ -36,7 +36,7 @@
 <a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/3.jpg">
     <img src="assets/3.jpg" alt="screen3", height=30%, width=30%>
   </a>
-
+<br>
    Short spark is a link shortner by which you can short all your long links and have a immersive experience with lottie animations.
 
 Of course, nothing is perfect, short spark also comes with its caviets. It uses <a href="https://shrtco.de/docs">shrtco.de</a> API which makes it a little bit slow.
@@ -57,7 +57,16 @@ To get started you have to go to <a href='https://shortspark.web.app'>Short Spar
 <!-- CONTACT -->
 ## Contact
 
-Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) 
-[Email](mailto:www.rishiahuja@gmail.com) 
-Short Spark: [Project link](https://github.com/RishiAhuja/short-spark)
+Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) <br>
+[Email](mailto:www.rishiahuja@gmail.com) <br>
+Short Spark: [Project link](https://github.com/RishiAhuja/short-spark)<br>
 
+## Acknowledgements
+* [Shrtco.de](https://shrtco.de)* 
+* [Lottie Files](https://lottiefiles.com/)
+* [Firebase Hosting](https://firebase.google.com)
+* [Flat Icons](https://flaticon.com)
+* [GitHub](https://github.com)
+
+## Follow Me
+<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png'></img>
