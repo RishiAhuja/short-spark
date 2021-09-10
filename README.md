@@ -74,5 +74,9 @@ Short Spark: [Project link](https://github.com/RishiAhuja/short-spark)<br>
   <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png', height=60, width=60></img>
 </a>
 <a href='https://www.youtube.com/channel/UCZF3uzRaNdRBSsBrHpQJXkA'> 
-  <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png', height=60, width=60></img>
+  <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png', height=65, width=65></img>
 </a>
+<a href='https://www.facebook.com/rishi.ahuja.75470/'> 
+  <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png', height=60, width=60></img>
+</a>
+
