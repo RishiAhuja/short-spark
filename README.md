@@ -37,7 +37,7 @@
     <img src="assets/3.jpg" alt="screen3", height=30%, width=30%>
   </a>
 <br>
-   Short spark is a link shortner by which you can short all your long links and have a immersive experience with lottie animations.
+Short spark is a link shortner by which you can short all your long links and have a immersive experience with lottie animations.
 
 Of course, nothing is perfect, short spark also comes with its caviets. It uses <a href="https://shrtco.de/docs">shrtco.de</a> API which makes it a little bit slow.
 
@@ -62,7 +62,8 @@ Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) <br>
 Short Spark: [Project link](https://github.com/RishiAhuja/short-spark)<br>
 
 ## Acknowledgements
-* [Shrtco.de](https://shrtco.de)* 
+* [Shrtco.de](https://shrtco.de)
+* [Undraw](https://undraw.co)
 * [Lottie Files](https://lottiefiles.com/)
 * [Firebase Hosting](https://firebase.google.com)
 * [Flat Icons](https://flaticon.com)
@@ -71,4 +72,7 @@ Short Spark: [Project link](https://github.com/RishiAhuja/short-spark)<br>
 ## Follow Me
 <a href='https://instagram.com/_rishi__ahuja'> 
   <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png', height=60, width=60></img>
+</a>
+<a href='https://www.youtube.com/channel/UCZF3uzRaNdRBSsBrHpQJXkA'> 
+  <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png', height=60, width=60></img>
 </a>
