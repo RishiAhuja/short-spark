@@ -69,4 +69,6 @@ Short Spark: [Project link](https://github.com/RishiAhuja/short-spark)<br>
 * [GitHub](https://github.com)
 
 ## Follow Me
-<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png'></img>
+<a href='https://instagram.com/_rishi__ahuja'> 
+  <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png', height=60, width=60></img>
+</a>
