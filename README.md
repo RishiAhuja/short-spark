@@ -5,7 +5,10 @@
   </a>
 
   <h3 align="center">Short Spark</h3>
-
+<a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/short-spark-github-banner-landscape.png">
+    <img src="assets/short-spark-github-banner-landscape.png" alt="short-spark-github-banner-landscape">
+  </a>
+  
   <p align="center">
     An awesome link shortener for all your long links
     <br />
