@@ -1,8 +1,9 @@
 <br />
 <p align="center">
   <a href="https://raw.githubusercontent.com/RishiAhuja/short-spark/master/assets/short-spark-github-banner-landscape.png">
-    <img src="assets/short-spark-github-banner-landscape.png" alt="short-spark-github-banner-landscape" align="middle" width="80%" height="80%">
+    <img src="assets/short-spark-github-banner-landscape.png" alt="short-spark-github-banner-landscape" align="middle" width="75%" height="75%">
   </a>
+  <br>
   <a href="https://shortspark.web.app">
     <img src="assets/shortspark.png" alt="Logo" width="80" height="80">
   </a>
