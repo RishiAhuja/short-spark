@@ -4,6 +4,8 @@
     <img src="assets/short-spark-github-banner-landscape.png" alt="short-spark-github-banner-landscape" align="middle" width="75%" height="75%">
   </a>
   <br>
+   <br>
+   <br>
   <a href="https://shortspark.web.app">
     <img src="assets/shortspark.png" alt="Logo" width="80" height="80">
   </a>
